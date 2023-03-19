@@ -12,9 +12,14 @@
     align-items: center;
 }
 
+img{
+    height: 70px;           /* logo height */
+    width: 70px;            /* logo width */
+}
+
 h1{
     margin: 0;
-    transform: translateY(-10px);           /* This is distance between logo and id [-value = shorter distance], [value = longer distance] */
+    transform: translateY(5px);           /* This is distance between logo and id [-value = shorter distance], [value = longer distance] */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 800;
     color: white;                         /* color of ID text */
