@@ -1,14 +1,23 @@
 
 # Watermark script
 
-A simple script that add a watermark to your FiveM server.
-
-
+A simple script that add a logo watermark and player id to your FiveM server.
 ## Authors
 
 - [@BR0KK3R](https://github.com/BR0KK3R)
+    Discord: Brokker#4564
 
+## Info
 
+Currently this script works only on Qb-core
+
+Sometimes if resource is started after starting the server it may not display player id, but to fix it player need to use /watermark command
+## Installation
+
+    1. Download watermark script
+    2. Unzip if needed
+    3. Put watermark folder to your resources/[standalone] folder (or other if you know what are you doing)
+    4. Replace logo.png in [watermark/html/] folder with own logo (don't change file name)
 ## Usage
 
 ```
@@ -16,17 +25,14 @@ A simple script that add a watermark to your FiveM server.
 ```
 
 
-## Installation
+## Screenshots
 
-To install my script on your server you need to put script folder in your resources folder.
-Then you have to replace logo.png file with your own server logo, but DON'T CHANGE FILE NAME!!
-    
+![Screenshot 1](https://i.ibb.co/H2CpgdN/Showcase-1.jpg)
+![Screenshot 2](https://i.ibb.co/1rhF9Kb/Showcase-2.jpg)
+
+
 ## Used By
 
 This script is used on the following servers:
 
 - www.roninrp.pl
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
