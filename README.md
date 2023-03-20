@@ -1,3 +1,4 @@
+![Banner](https://forum.cfx.re/uploads/default/original/4X/9/4/b/94b1ce2aa21aaea2559e79c2fd481d96488d5e5b.jpeg)
 
 # Watermark script
 
