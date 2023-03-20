@@ -10,7 +10,7 @@ A simple script that add a logo watermark and player id to your FiveM server.
 
 ## Info
 
-Currently this script works only on Qb-core
+This script works for Qb-core and ESX
 
 Sometimes if resource is started after starting the server it may not display player id, but to fix it player need to use /watermark command
 ## Features
@@ -28,6 +28,8 @@ Sometimes if resource is started after starting the server it may not display pl
 
     1. Download watermark script
     2. Unzip if needed
+    3. Extract files from 'ESX' or 'Qb-core' folder (depending on which one you use), to 'watermark' folder
+    4. Delete 'ESX' and 'Qb-core' folders after extracting files
     3. Put watermark folder to your 'resources/[standalone]' folder (or other if you know what are you doing)
     4. Replace logo.png in 'watermark/html/' folder with own logo (don't change file name)
 ## Usage
