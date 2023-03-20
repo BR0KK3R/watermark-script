@@ -5,8 +5,9 @@
 A simple script that add a logo watermark and player id to your FiveM server.
 ## Author
 
-[@BR0KK3R](https://github.com/BR0KK3R)
-    Discord: Brokker#4564
+GitHub: [@BR0KK3R](https://github.com/BR0KK3R)
+
+Discord: Brokker#4564
 
 ## Info
 
