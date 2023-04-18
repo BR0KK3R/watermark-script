@@ -18,11 +18,11 @@ Thanks to [@newbialywhodis](https://github.com/newbialywhodis) for esx version
 Sometimes if resource is started after starting the server it may not display player id, but to fix it player need to use /watermark command
 ## Features
 
-- Customizable:
-    - Logo size
-    - ID text size
-    - Watermark opacity
-    - Watermark position
+Customizable:
+   - Logo size
+   - ID text size
+   - Watermark opacity
+   - Watermark position
     
 [You can customize other things if you have basic HTML and CSS knowledge]
 
