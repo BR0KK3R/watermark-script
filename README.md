@@ -42,6 +42,9 @@ Customizable:
 /watermark - This command toggle visiblity of watermark
 ```
 
+## Support
+
+[![buymeacoffee](https://github.com/BR0KK3R/BR0KK3R/blob/main/bmcbrand/Buttons%20&%20Icons/yellow-button.png?raw=true)](https://buymeacoffee.com/brokker)
 
 ## Screenshots
 
