@@ -1,4 +1,8 @@
-![Banner](https://forum.cfx.re/uploads/default/original/4X/d/b/0/db0d57f180c86f95a1a7144507bb68f1d1afd3da.jpeg)
+<!--- ![Banner](https://forum.cfx.re/uploads/default/original/4X/d/b/0/db0d57f180c86f95a1a7144507bb68f1d1afd3da.jpeg) --->
+
+## Support
+
+[![buymeacoffee](https://github.com/BR0KK3R/BR0KK3R/blob/main/bmcbrand/Buttons%20&%20Icons/yellow-button.png?raw=true)](https://buymeacoffee.com/brokker)
 
 # Watermark script
 
@@ -41,10 +45,6 @@ Customizable:
 ```
 /watermark - This command toggle visiblity of watermark
 ```
-
-## Support
-
-[![buymeacoffee](https://github.com/BR0KK3R/BR0KK3R/blob/main/bmcbrand/Buttons%20&%20Icons/yellow-button.png?raw=true)](https://buymeacoffee.com/brokker)
 
 ## Screenshots
 
